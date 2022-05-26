@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T20:01:58.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="9UrmPo-2m3RM08t7GgIq" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T06:53:02.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="Spza8GcD59r93_FJ5Fb-" version="18.1.2" type="github">
   <diagram id="CeN3dQLY-kd0Jw_Bi_ws" name="Page-1">
-    <mxGraphModel dx="2048" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,96 +8,203 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-1" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
-          <mxGeometry x="360" y="200" width="80" height="100" as="geometry" />
+          <mxGeometry x="413" y="288" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#232F3E;" parent="1" source="Wa7LFaG9Wdek9uohSkZD-2" target="Wa7LFaG9Wdek9uohSkZD-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-2" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="80" height="100" as="geometry" />
+          <mxGeometry x="413" y="128" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.glue_crawlers;" parent="1" vertex="1">
-          <mxGeometry x="570" y="960" width="78" height="78" as="geometry" />
+          <mxGeometry x="886" y="239" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.glue_data_catalog;" parent="1" vertex="1">
-          <mxGeometry x="345" y="960" width="72" height="78" as="geometry" />
+          <mxGeometry x="889" y="408" width="72" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-5" value="Amazon RDS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" parent="1" vertex="1">
-          <mxGeometry x="160" y="940" width="80" height="100" as="geometry" />
+          <mxGeometry x="1284" y="958" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=16;fontColor=#232F3E;" parent="1" source="Wa7LFaG9Wdek9uohSkZD-12" target="Wa7LFaG9Wdek9uohSkZD-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="90" />
-              <mxPoint x="300" y="90" />
+              <mxPoint x="353" y="178" />
+              <mxPoint x="353" y="178" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-12" value="Client&#39;s&lt;br&gt;SFTP Server" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.traditional_server;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="190" y="40" width="90" height="90" as="geometry" />
+          <mxGeometry x="243" y="128" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-20" value="JavaScript function which has credentials for sftp server will fetch specified files and dump in AWS S3 bucket&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" parent="1" vertex="1">
-          <mxGeometry x="460" y="40" width="200" height="80" as="geometry" />
+          <mxGeometry x="513" y="128" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-21" value="sftp.datadesign.io" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="340" y="180" width="120" height="20" as="geometry" />
+          <mxGeometry x="393" y="268" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-25" value="data-designs-beta-sftp-s3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="320" y="20" width="160" height="20" as="geometry" />
+          <mxGeometry x="373" y="108" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-26" value="Lambda function will dump the &quot;ZIP&quot; file in bucket&#39;s particular site folder&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" parent="1" vertex="1">
-          <mxGeometry x="455" y="200" width="205" height="80" as="geometry" />
+          <mxGeometry x="508" y="288" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=10;fontColor=#232F3E;" parent="1" source="Wa7LFaG9Wdek9uohSkZD-27" target="Wa7LFaG9Wdek9uohSkZD-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-27" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="1" vertex="1">
-          <mxGeometry x="360" y="380" width="80" height="100" as="geometry" />
+          <mxGeometry x="413" y="468" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-28" value="csv_preprocessor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="345" y="360" width="110" height="20" as="geometry" />
+          <mxGeometry x="398" y="448" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-33" value="When &quot;ZIP&quot; file gets dropped in s3 bucket this lambda function will extract CSV files from the ZIP file and put the CSV files in another s3 bucket and delete the zip file&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" parent="1" vertex="1">
-          <mxGeometry x="460" y="390" width="200" height="78" as="geometry" />
+          <mxGeometry x="513" y="478" width="200" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=10;fontColor=#232F3E;" parent="1" source="Wa7LFaG9Wdek9uohSkZD-34" target="Wa7LFaG9Wdek9uohSkZD-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-34" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
-          <mxGeometry x="360" y="560" width="80" height="100" as="geometry" />
+          <mxGeometry x="413" y="648" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-35" value="datadesign-stagging" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="335" y="540" width="130" height="20" as="geometry" />
+          <mxGeometry x="388" y="628" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-37" value="This bucket also has various site folders which has all the unprocessed CSVs which was extracted from the ZIP file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" parent="1" vertex="1">
-          <mxGeometry x="460" y="560" width="200" height="80" as="geometry" />
+          <mxGeometry x="513" y="648" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-40" value="csv_preprocessor_stage2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="160" y="540" width="160" height="20" as="geometry" />
+          <mxGeometry x="228" y="628" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-43" value="This function triggers whenever csv files get dropped in the datadesign-stagging bucket, it will encode the files in proper ASCI format and check the columns with the help &quot;columncheck.json&quot; file which is present in datadesign-lambda-zip bucket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="560" width="340" height="80" as="geometry" />
+          <mxGeometry x="53" y="668" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-38" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="1" vertex="1">
-          <mxGeometry x="200" y="560" width="80" height="100" as="geometry" />
+          <mxGeometry x="283" y="648" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Wa7LFaG9Wdek9uohSkZD-46" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;exitX=0.486;exitY=-0.191;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Wa7LFaG9Wdek9uohSkZD-40" edge="1">
+        <mxCell id="Wa7LFaG9Wdek9uohSkZD-46" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="370" as="sourcePoint" />
-            <mxPoint x="350" y="240" as="targetPoint" />
+            <mxPoint x="313" y="624" as="sourcePoint" />
+            <mxPoint x="403" y="328" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="240" />
+              <mxPoint x="313" y="328" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Wa7LFaG9Wdek9uohSkZD-47" value="After Processing that CSV file, lambda function put the file in&amp;nbsp;&lt;br&gt;sftp.datadesign.io bucket&#39;s&lt;br&gt;particular site&#39;s source folder,&lt;br&gt;now this bucket contain all the processed csv files&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" parent="1" vertex="1">
-          <mxGeometry x="30" y="370" width="200" height="80" as="geometry" />
+          <mxGeometry x="83" y="458" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z0V9WUZh1JCLHmLJx5fJ-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="880" y="282" width="78" height="78" as="geometry" />
+        <mxCell id="Z0V9WUZh1JCLHmLJx5fJ-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1283" y="239" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="Z0V9WUZh1JCLHmLJx5fJ-2" value="&lt;span style=&quot;color: rgb(35, 47, 62); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;EventBridge&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;fontColor=#232F3E;align=center;" vertex="1" parent="1">
-          <mxGeometry x="880" y="360" width="80" height="30" as="geometry" />
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=10;fontColor=#232F3E;" edge="1" parent="1" source="Z0V9WUZh1JCLHmLJx5fJ-2" target="x3DmsvlnEj31zWXHE0yx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0V9WUZh1JCLHmLJx5fJ-2" value="&lt;span style=&quot;color: rgb(35, 47, 62); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;EventBridge&lt;br&gt;Rule&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;fontColor=#232F3E;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1282" y="318" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" edge="1" parent="1" source="x3DmsvlnEj31zWXHE0yx-1" target="Wa7LFaG9Wdek9uohSkZD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-1" value="Glue Crawler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="880" y="318" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-4" value="we have separate crawler for different sites this crawler will crawl csv files from sftp.datadesign.io bucket and&amp;nbsp; create metadata table,&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;most of the crawler are schedule to run at specified time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#232F3E;fontSize=11;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="970" y="233" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" edge="1" parent="1" target="Wa7LFaG9Wdek9uohSkZD-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="523" y="278" as="sourcePoint" />
+            <mxPoint x="733" y="228" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-7" value="Glue Data Catalog" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Verdana;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="868" y="488" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-9" value="This Data Catalog has the database named &quot;datadesigncatalog&quot; which contains metadata tables of crawled CSV files&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="973" y="408" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" edge="1" parent="1" source="x3DmsvlnEj31zWXHE0yx-11" target="x3DmsvlnEj31zWXHE0yx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-11" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="418" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" edge="1" parent="1" source="x3DmsvlnEj31zWXHE0yx-12" target="Wa7LFaG9Wdek9uohSkZD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-12" value="Glue Job" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.glue;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="788" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-14" value="We have declared some CRON jobs&lt;br&gt;in AWS Event Bridge (previously on AWS Cloud watch), the jobs has been specified in such a way that it will run after the csv files were transformed in data catalog, the purpose of this job is to initialized the ETL process&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="1393" y="233" width="199" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-16" value="Glue_job_trigger_jobs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1252" y="398" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-18" value="Now when the CRON Job starts it will trigger this lambda function, the only purpose of this lambda function is to start the site_jobs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="1393" y="398" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" edge="1" parent="1" source="x3DmsvlnEj31zWXHE0yx-19" target="x3DmsvlnEj31zWXHE0yx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-19" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="598" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-20" value="test_glue_state_changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1244" y="578" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-22" value="This function has the sequence of jobs which will execute after the site job will complete, this function will look in the state of the job if the job state is succeed then it&#39;ll run the succeeding jobs and if the all the specified job riches to success sate it will drop a message in the slack channel that all the the jobs finish successfully&lt;br&gt;and in middle if any jobs get failed it will also drop message in slack channel &#39;#system-failure&#39; that so and so job failed and also prints the error&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="1404" y="533" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-26" value="The primary purpose&lt;br&gt;of a glue job is to create a dynamic frame from the specified data catalog table and map or add new columns according to AWS RDS table&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1383" y="793" width="219" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-29" value="Normal ingestion of the data into AWS RDS is done by all the jobs but to handle the new or updated data some jobs first check the amount of data available in RDS table then determine that which data is new from the client side so it can insert the data in RDS table, and if data is already present in table then it will create a JSON file of data which may have updates and put the JSON in datadesign-stagging bucket&#39;s &quot;update-json&quot; folder&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="1033" y="733" width="240" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-30" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1293" y="788" as="sourcePoint" />
+            <mxPoint x="503" y="728" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1293" y="758" />
+              <mxPoint x="1293" y="728" />
+              <mxPoint x="1093" y="728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-31" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;startArrow=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="503" y="1008" as="sourcePoint" />
+            <mxPoint x="1283" y="1008" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="923" y="1008" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-33" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="413" y="968" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-34" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;startArrow=none;" edge="1" parent="1" source="x3DmsvlnEj31zWXHE0yx-35" target="x3DmsvlnEj31zWXHE0yx-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="453" y="758" as="sourcePoint" />
+            <mxPoint x="1282.9999999999995" y="1028" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-35" value="tablerecord_update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Verdana;fontColor=#232F3E;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="383" y="948" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-36" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" target="x3DmsvlnEj31zWXHE0yx-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="453" y="758" as="sourcePoint" />
+            <mxPoint x="453" y="968" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x3DmsvlnEj31zWXHE0yx-37" value="As soon as json file get dumped in &quot;update-json&quot; folder this lambda function will get triggered and connect to AWS RDS, with the use of cursors in Pyscopg2 library it will execute update statement written in SQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=11;fontColor=#232F3E;" vertex="1" parent="1">
+          <mxGeometry x="523" y="918" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
